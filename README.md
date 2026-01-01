@@ -12,7 +12,7 @@
   <em>I transform raw data into intelligent solutions. Currently mastering the intersection of <strong>Software Engineering</strong>, <strong>Cloud Architecture</strong>, and <strong>Deep Learning</strong>.</em>
 </p>
 
-<a href="https://linkedin.com/in/rayanfogue">
+<a href="https://www.linkedin.com/in/rayan-junior-fogue-5baa6526b/">
   <img src="https://img.shields.io/badge/AVAILABLE_FOR_INTERNSHIP-MAY_2026-007ACC?style=flat-square&logo=linkedin&logoColor=white&labelColor=18181B" height="30" />
 </a>
 
